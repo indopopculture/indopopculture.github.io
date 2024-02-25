@@ -50,6 +50,11 @@ figure, header, nav, section, article, aside, footer, figcaption {
   height: 0;
 }
 
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
 .clearfix {
   display: inline-block;
 }
